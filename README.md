@@ -28,3 +28,5 @@ Feel free to reach out to me for collaboration, questions, or just a friendly ch
 - 👨‍💻 **GitHub**: [github.com/sudo-chmod-git](https://github.com/sudo-chmod-git)
 
 Thanks for stopping by! 😄
+
+<img src="https://sudo-chmod-git.github.io/sudo-chmod-git/crackers.svg" alt="Crackers animation" />
