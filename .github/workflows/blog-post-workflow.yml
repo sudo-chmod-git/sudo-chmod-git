@@ -16,4 +16,4 @@ jobs:
       - name: Pull in sudo-chmod posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://www.sudo-chmod.io/rss.xml"
+          feed_list: "https://www.cyprien.io/rss.xml"
