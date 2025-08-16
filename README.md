@@ -1,14 +1,22 @@
-# Hi there, I'm sudo-chmod-git! 👋
+## Hey I'm Sudo 👋
 
-## About Me
+```json
+{
+  "job": "Software Engineer",
+  "birthday": "2000-08-07",
+  "country": "India",
+  "city": "Pune",
+  "stack": ["Javascript", "Python", "Go", "Docker", "AWS", "..."],
+  "interest": ["Tech", "Running", "Cycling", "Hiking", "..."]
+}
+```
+---
 
-I'm a passionate software developer with a keen interest in open-source projects and collaborative coding. I love to explore new technologies, contribute to innovative projects, and continuously learn and grow as a developer.
-
-- 💻 **Languages**: Python, JavaScript, TypeScript, Java, C++
-- 🌐 **Web Development**: React, Node.js, Express, Django, Flask
-- ☁️ **Cloud**: AWS, Azure, Google Cloud Platform
-- 🛠 **DevOps**: Docker, Kubernetes, Jenkins, GitHub Actions
-- 🗃 **Databases**: MySQL, PostgreSQL, MongoDB, Redis
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="images/breakout-light.svg">
+  <img alt="Breakout Game" src="images/breakout-light.svg">
+</picture>
 
 ## Projects
 
